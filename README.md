@@ -1,5 +1,8 @@
 # What's the deal with Python?
 
-Just a simple playground for me to explore python. Everything here is just experimental in my learning journey.
+Everything here is just me experimenting on my learning journey.
 
-Most of my learning is coming from [learnpython.org](https://www.learnpython.org/)
+Resources used so far include:
+
+    - [learnpython.org](https://www.learnpython.org/)
+    - [Geeks For Geeks](https://www.geeksforgeeks.org/command-line-interface-programming-python/)
